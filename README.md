@@ -12,26 +12,24 @@
 ## Download
 
 ### macOS
-| Chip | Download |
+| Chip | URL |
 |---|---|
-| Apple Silicon (M1/M2/M3) | [Naka Bucket-arm64.dmg](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-arm64.dmg) |
-| Intel | [Naka Bucket-x64.dmg](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-x64.dmg) |
-
-> First time opening? Right-click the app → Open to bypass the unidentified developer warning.
+| Apple Silicon (M1/M2/M3) | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-arm64.dmg` |
+| Intel | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-x64.dmg` |
 
 ### Windows
-| Architecture | Download |
+| Architecture | URL |
 |---|---|
-| x64 (most common) | [Naka Bucket-Setup-x64.exe](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-Setup-x64.exe) |
-| ARM64 | [Naka Bucket-Setup-arm64.exe](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-Setup-arm64.exe) |
+| x64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-Setup-x64.exe` |
+| ARM64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-Setup-arm64.exe` |
 
 ### Linux
-| Format | Architecture | Download |
+| Format | Architecture | URL |
 |---|---|---|
-| AppImage | x64 | [Naka Bucket-x64.AppImage](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-x64.AppImage) |
-| AppImage | ARM64 | [Naka Bucket-arm64.AppImage](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-arm64.AppImage) |
-| .deb | x64 | [Naka Bucket-x64.deb](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-x64.deb) |
-| .deb | ARM64 | [Naka Bucket-arm64.deb](https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka%20Bucket-arm64.deb) |
+| AppImage | x64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-x64.AppImage` |
+| AppImage | ARM64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-arm64.AppImage` |
+| .deb | x64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-amd64.deb` |
+| .deb | ARM64 | `https://github.com/dhevanthareza/naka-bucket-releases/releases/latest/download/Naka.Bucket-arm64.deb` |
 
 ---
 
